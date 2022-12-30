@@ -1,0 +1,164 @@
+.food-munch-logo{
+	height:70px;
+	width:120px;
+}
+
+.nav-button{
+	border-radius:10px;
+	border-style:solid;
+	border-width:0px;
+	background-color:orange;
+	height:45px;
+	width:130px;
+}
+
+#nav-item1{
+	font-size:17px;
+	font-weight:normal;
+	color:white;
+}
+
+#nav-item2{
+	font-size:17px;
+	font-weight:normal;
+	color:white;
+}
+
+#nav-item3{
+	font-size:17px;
+	font-weight:normal;
+	color:white;
+}
+
+#nav-item4{
+	font-size:17px;
+	font-weight:normal;
+	color:white;
+}
+
+#nav-item5{
+	font-size:17px;
+	font-weight:normal;
+	color:white;
+}
+
+.card-images{
+	height:250px;
+	width:75px;
+}
+.card-footers{
+	font-size:25px;
+	text-align:center;
+}
+.card-margin{
+	margin-top:50px;
+}
+
+
+.helathy-food-image{
+	height:30vh;
+	width:38wh;
+	margin-top:100px;
+	margin-bottom:60px;
+}
+
+.helathy-image{
+	height:40vh;
+	width:38wh;
+	margin-top:100px;
+}
+
+.healthy-food-heading{
+	font-size:85px;
+	font-weight:500;
+	color:white;
+}
+.healthy-food-paragraph{
+	font-size:18px;
+	color:white;
+}
+
+.healthy-heading{
+	font-size:50px;
+	font-weight:bold;
+	color:black;
+	margin-top:100px;
+}
+
+.healthy-paragraph {
+	font-size:18px;
+	color:black;
+}
+
+.healthy-food-button{
+	border-width:0px;
+	background-color:orange;
+    height:45px; 
+	width:130px;
+	border-radius:10px;
+	color:white;
+}
+.why-choose-us-background-color{
+	background-color:EDF8F8;
+}
+
+.choose-heading{
+	font-size:50px;
+	font-weight:bold;
+	margin-top:100px;
+}
+
+.choose-para{
+	font-size:20px;
+}
+
+.choose-image{
+	height:87px;
+	width:90px;
+	margin-top:100px;
+}
+ 
+.card-heading{
+	font-size:25px;
+	
+}
+  
+.crad-style{
+  background-color:white;
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+}	
+.footer-top{
+   margin-top:100px;
+   text-align:center; 
+   font-size:50px;   
+}
+
+.footer-back-ground{
+	background-color:black;
+	margin-top:100px;
+}
+
+.contact-heading{
+	font-size:50px;
+	font-weight:bold;
+	margin-top:50px;
+	color:white;
+	margin-bottom:50px;
+	text-align:center;
+}
+.forminput{
+	border-color:red;
+	border-width:2px;
+	border-style:solid;
+	
+}
+.down-arrow{
+	text-align:center;
+	
+}
+.seactionCard:hover {
+  background-color: #000000;
+  color:#ffffff;
+}
